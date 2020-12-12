@@ -1,4 +1,4 @@
-## 💬 YouTube Thumbnail App 
+## 💬 YouTube Thumbnail App
 
 This is like a Youtube clone but just to test the thumbnail design of the video.🗄
 
@@ -20,10 +20,14 @@ This is like a Youtube clone but just to test the thumbnail design of the video.
 
 Open [`https://youtube-thumbnail-test.netlify.app/`](https://youtube-thumbnail-test.netlify.app/) to view it in your browser.
 
-## 🛠 Technologies Used 
+## 🛠 Technologies Used
 
 - JavaScript
 - ReactJS
 - HTML/CSS
 - Firebase
 - Material-UI
+
+## 🌄 Project View
+
+<img src="https://media.giphy.com/media/8ZLHCEsrKStNdRgIoM/giphy.gif">
