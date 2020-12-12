@@ -18,7 +18,7 @@ This is like a Youtube clone but just to test the thumbnail design of the video.
 
 ## 🚀 Live Demo
 
-Open [https://youtube-thumbnail-test.netlify.app/](https://youtube-thumbnail-test.netlify.app/) to view it in your browser.
+Open [`https://youtube-thumbnail-test.netlify.app/`](https://youtube-thumbnail-test.netlify.app/) to view it in your browser.
 
 ## 🛠 Technologies Used 
 
