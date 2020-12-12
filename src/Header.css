@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  align-items: center;
+}
+
+.header__search {
+  flex: 1;
+  align-items: center;
+  display: flex;
+}
+
+.header__input input {
+  padding: 7px !important;
+}
+
+.header__searchButton {
+  background-color: lightgray !important;
+  height: 33px;
+}
+
+.header__logo {
+  height: 50px;
+  width: 80px;
+  object-fit: contain;
+}

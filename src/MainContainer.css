@@ -1,0 +1,19 @@
+.mainContainer {
+  background-color: #f9f9f9;
+  flex: 0.8;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.mainContainer__title {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.mainContainer__videos {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}

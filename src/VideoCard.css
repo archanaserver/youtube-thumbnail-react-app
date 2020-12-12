@@ -1,0 +1,49 @@
+.videoCard {
+  flex: 0.25;
+  max-height: 250px;
+  min-width: 22%;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+
+.videoCard__info {
+  display: flex;
+  margin-top: 12px;
+}
+
+.videoCard__infoText {
+  flex: 1;
+  margin-left: 12px;
+}
+
+.videoCard__thumbnail {
+  width: 100%;
+}
+
+.videoCard__channelImageContainer > img {
+  width: 100%;
+}
+
+.videoCard__channelImageContainer {
+  height: 36px;
+  width: 36px;
+  border: 1px solid orchid;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.videoCard__title {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.videoCard__channelName {
+  font-size: 14px;
+  color: #606060;
+}
+
+.videoCard__noOfViewsAndpostedData {
+  font-size: 14px;
+  color: #606060;
+}
